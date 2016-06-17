@@ -15,4 +15,6 @@ title: About
 
 {{ site.author.about }}
 
-[write something about self]
+During the first twenty years of my life, I struggled to be know-it-all. For my remaining years, I accept my imperfect brain and just want to be a person who contributes something to the world.
+
+##### This site is Built with [Jekyll](http://jekyllrb.com) and [Hydejack Theme](https://github.com/qwtel/hydejack.git).
