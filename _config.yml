@@ -14,7 +14,7 @@ description:      >
   Learn, Organize, Improve. 
 
 # The tags listed as entries in the sidebar
-sidebar_tags:     [algorithm, design, life]
+sidebar_tags:     [algorithm, design, production]
 
 # Fallback image and color if not overwritten for tag or post
 image:            /mu_zone/public/img/eva.jpeg

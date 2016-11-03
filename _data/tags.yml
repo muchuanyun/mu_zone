@@ -46,3 +46,10 @@ life:
     color: '#949667'
     description: >
         Life is painful, but we have to smile.
+
+production:
+    name: Production
+    image: /mu_zone/public/img/Lotus.jpg
+    color: '#949667'
+    description: >
+        桃李春风一杯酒，江湖夜雨十年灯。
