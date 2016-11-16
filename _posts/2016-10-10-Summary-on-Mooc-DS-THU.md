@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Summary on MOOC-MS-THU
+title: Summary on MOOC-DS-THU
 tags: [algorithm]
 ---
 Recently I took a MOOC -- Data Structure, by Professor Junhui Deng at THU. I am not a CS student, though I learned some basic courses like Algorithm and Computer Architecture. I treasure this chance of practicing programming as well as getting familiar with different data structures. Totally there are 12 assignments ([problem description](https://github.com/muchuanyun/Cpp_DS_exercise/blob/master/PA_text.md)), which can be classified to several groups according to the data structure being used. Here I would like to summarize my thinking regarding to each problem.
