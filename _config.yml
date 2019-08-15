@@ -7,7 +7,7 @@ url:              http://muchuanyun.github.io
 # Set to '' in case of hosting on `http://<your-github-name>.github.io`
 baseurl:         '/mu_zone' 
 
-title:           Code_Poem 
+title:           Mutopia
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:      >
